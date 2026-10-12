@@ -1,3 +1,4 @@
-quick badge test
+.quick badge test
 
 Pair Extraordinaire test
+
